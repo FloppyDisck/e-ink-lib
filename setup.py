@@ -9,7 +9,7 @@ setup(
 	author='FloppyDisck',
 	author_email='guy.garcia@upr.edu',
 	url = 'https://github.com/FloppyDisck/e-ink-lib',
-	download_url='',
+	download_url='https://github.com/FloppyDisck/e-ink-lib/archive/0.1.0.tar.gz',
 	keywords = ['waveshare', 'eink', 'e-ink'],
 	install_requires=['Pillow>=6.1.0','RPi.GPIO>=0.6.5','spidev>=3.4'],
 	classifiers=[
