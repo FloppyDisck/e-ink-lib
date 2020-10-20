@@ -1,8 +1,8 @@
 from setuptools import find_packages, setup
 
 setup(
-	name='e_ink',
-	packages=find_packages(include=['epd']),
+	name='eink',
+	packages=find_packages(include=['eink']),
 	version='0.1.0',
 	description='E-ink display library for waveshare screens',
 	author='FloppyDisck',

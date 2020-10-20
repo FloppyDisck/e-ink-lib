@@ -9,7 +9,7 @@ import epd2in7b
 import epd2in9
 import epd2in9bc
 import epd2in9b_V2
-import epd2ind
+import epd2in9d
 import epd2in13
 import epd2in13bc
 import epd2in13b_V3
@@ -64,8 +64,8 @@ def get_epd2in9bc():
 def get_epd2in9b_V2():
 	return epd2in9b_V2.EPD()
 
-def get_epd2ind():
-	return epd2ind.EPD()
+def get_epd2in9d():
+	return epd2in9d.EPD()
 
 def get_epd2in13():
 	return epd2in13.EPD()
